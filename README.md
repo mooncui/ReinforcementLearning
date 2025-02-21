@@ -1,2 +1,5 @@
-Can run directly on pycharm
-helps understanding reinforcement learning 
+Reinforcement learning games
+
+帮助理解how rf works
+
+算法是q-learning
